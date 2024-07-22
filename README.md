@@ -2,7 +2,7 @@
 <h1>Linear Regression</h2>
 </p>
 
-  Here is the code for "How to Make a Prediction - Intro to Deep Learning." The goal is to predict an animal's body weight given its brain weight. The model we'll be using is called [Linear Regression](http://www.statisticssolutions.com/what-is-linear-regression/). The dataset we're using to train our model consists of brain weight and body weight measurements from various animals. We'll fit our line to the data using the scikit-learn machine learning library, and then plot our graph using matplotlib.
+  Here is the code for **How to Make a Prediction - Intro to Deep Learning.** The goal is to predict an animal's body weight given its brain weight. The model we'll be using is called [Linear Regression](http://www.statisticssolutions.com/what-is-linear-regression/). The dataset we're using to train our model consists of brain weight and body weight measurements from various animals. We'll fit our line to the data using the scikit-learn machine learning library, and then plot our graph using matplotlib.
   <br/>
 
 ---
