@@ -19,7 +19,7 @@ You can simply run `pip install -r requirements.txt` in the terminal to install 
 
 Type `python demo.py` into the terminal, and you'll see the scatter plot and line of best fit appear.
 
-Note: *Bonus points if you perform linear regression on a dataset with three different variables.*
+*Note: Bonus points if you perform linear regression on a dataset with three different variables.*
 
 ---
 
