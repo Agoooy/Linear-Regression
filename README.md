@@ -40,3 +40,10 @@ Note: *Bonus points if you perform linear regression on a dataset with three dif
 <a href="https://instagram.com/yogardkaa">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="27" alt="instagram logo" />
 </a>
+
+---
+<div align="center">
+
+![BuiltWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)
+</div>
