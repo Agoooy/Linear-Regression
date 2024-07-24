@@ -41,6 +41,6 @@ Type `python demo.py` into the terminal, and you'll see the scatter plot and lin
 ---
 <div align="center">
 
-![BuiltWithLove](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/made-in-python.svg)
+![MadeWithLove](https://forthebadge.com/images/badges/made-with-love__.svg)
+![MadeInPython](https://forthebadge.com/images/badges/made-in-python.svg)
 </div>
