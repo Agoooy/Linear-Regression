@@ -19,7 +19,7 @@ Type `python demo.py` into the terminal, and you'll see the scatter plot and lin
 *Note: Bonus points if you perform linear regression on a dataset with three different variables.*
 
 ---
-## Connect with me
+### Connect with me
   You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
