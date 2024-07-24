@@ -6,9 +6,7 @@
   <br/>
 
 ---
-
 ### Dependencies
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -16,15 +14,12 @@
 You can simply run `pip install -r requirements.txt` in the terminal to install the necessary dependencies. If you don't already have pip, here is a link to install it [pip](https://pip.pypa.io/en/stable/installing/).
 
 ### Usage
-
 Type `python demo.py` into the terminal, and you'll see the scatter plot and line of best fit appear.
 
 *Note: Bonus points if you perform linear regression on a dataset with three different variables.*
 
 ---
-
 ## Connect with me
-
   You can reach me through My Gmail, LinkedIn, or Instagram account
   
  <a
